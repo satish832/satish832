@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>👋 Hi, I'm Satish!</h1>
 
-<!--
-**satish832/satish832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>🚀 Software Developer | Passionate about Web & App Development</b>  
 
-Here are some ideas to get you started:
+I work at a **leading [software development company](https://www.nascenture.com/)**, where we build **scalable, efficient, and innovative** digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>💻 Technologies I Love</h3>
+
+🚀 <b>Laravel & PHP</b>  
+⚛️ <b>React & Next.js</b>  
+🌐 <b>WordPress & Web Development</b>  
+☁️ <b>Cloud & DevOps (AWS, Docker)</b>  
+
+<h3>✨ About Me</h3>  
+I am a **passionate developer** who enjoys solving complex problems and creating impactful digital experiences. Working at a **software development company**, I specialize in **web and mobile app development, API design, and WordPress solutions**, ensuring high-performance and scalable results.
+
