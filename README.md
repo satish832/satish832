@@ -2,7 +2,7 @@
 
 <b>🚀 Software Developer | Passionate about Web & App Development</b>  
 
-I work at a **leading [software development company](https://www.nascenture.com/)**, where we build **scalable, efficient, and innovative** digital solutions.
+I work at a **leading [software development company](https://www.nascenture.com/software-development/)**, where we build **scalable, efficient, and innovative** digital solutions.
 
 <h3>💻 Technologies I Love</h3>
 
